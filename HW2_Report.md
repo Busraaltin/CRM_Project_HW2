@@ -65,7 +65,10 @@ stateDiagram-v2
 
 *   **Screenshot 1: Server Execution & Response**  
     *Terminal showing successful server startup on port 3001, successful POST payload reception, the Antigravity Connector transmission logs, and the 200 HTTP response.*
-    <img width="557" height="115" alt="image" src="https://github.com/user-attachments/assets/bf477ba3-ceeb-4512-9a80-cb0a99f59299" />
+    <img width="711" height="154" alt="image" src="https://github.com/user-attachments/assets/e65bfff2-858f-4704-9342-1aa8c1013767" />
+
+    *Before any data can be processed, the Node.js server must be active and listening. As shown in the terminal logs, the system initializes the SQLite database, ensures the leads table is ready, and starts the HTTP server on port 3001*
+
 
 *   **Screenshot 2: Google Sheets CRM Sync**  
     *Google Sheets reflecting the exact `{name, email, message}` data neatly appended in real-time.*
