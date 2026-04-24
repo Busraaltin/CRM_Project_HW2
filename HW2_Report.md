@@ -62,9 +62,12 @@ stateDiagram-v2
 
 ## 4. Test Proof & Execution Screenshots
 
-*(Büşra, buraya Terminal'de kodun çalıştığı anın ekran görüntüsünü VE Google Sheets tablonuza verinin düştüğü anın ekran görüntüsünü yapıştırın)*
 
 *   **Screenshot 1: Server Execution & Response**  
     *Terminal showing successful server startup on port 3001, successful POST payload reception, the Antigravity Connector transmission logs, and the 200 HTTP response.*
+    <img width="557" height="115" alt="image" src="https://github.com/user-attachments/assets/bf477ba3-ceeb-4512-9a80-cb0a99f59299" />
+
 *   **Screenshot 2: Google Sheets CRM Sync**  
     *Google Sheets reflecting the exact `{name, email, message}` data neatly appended in real-time.*
+    <img width="1405" height="45" alt="image" src="https://github.com/user-attachments/assets/b3acc09e-499e-43a6-aac9-f1e2164088d5" />
+
